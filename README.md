@@ -4,7 +4,7 @@ A cross-platform MP3 player built in Go featuring real-time audio visualization 
 
 ## Demo
 
-[Video demonstration placeholder - Add your video here]
+https://github.com/user-attachments/assets/00e70f26-e377-4d07-8a5d-18095f0de1c4
 
 ## Architecture
 
